@@ -1,0 +1,63 @@
+[{
+    "_id": {
+      "$oid": "6557fcb7a11aca237708374b"
+    },
+    "title": "Propulsion Assignment",
+    "course": "65510e70870c092d5441bc94"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca237708374c"
+    },
+    "title": "Combustion Analysis",
+    "course": "65510e70870c092d5441bc94"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca237708374d"
+    },
+    "title": "Nozzle Design Project",
+    "course": "65510e70870c092d5441bc94"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca237708374e"
+    },
+    "title": "Aerodynamics Quiz",
+    "course": "65510e70870c092d5441bc95"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca237708374f"
+    },
+    "title": "Flow Analysis",
+    "course": "65510e70870c092d5441bc95"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca2377083750"
+    },
+    "title": "Heating Analysis",
+    "course": "65510e70870c092d5441bc95"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca2377083751"
+    },
+    "title": "Structural Design Task",
+    "course": "65510e70870c092d5441bc96"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca2377083752"
+    },
+    "title": "Orbital Calculations",
+    "course": "65510e70870c092d5441bc96"
+  },
+  {
+    "_id": {
+      "$oid": "6557fcb7a11aca2377083753"
+    },
+    "title": "Systems Engineering Exam",
+    "course": "65510e70870c092d5441bc96"
+  }]
