@@ -11,6 +11,8 @@ import UserRoutes from "./users/routes.js";
 import "dotenv/config";
 import session from "express-session";
 
+mongoose.connect(CONNECTION_STRING);
+
 const app = express()
 app.use(cors({
     credentials: true,
